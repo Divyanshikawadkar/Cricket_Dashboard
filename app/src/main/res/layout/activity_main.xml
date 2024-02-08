@@ -1061,6 +1061,7 @@
                         android:layout_marginRight="5dp"
                         android:src="@drawable/img_26"/>
                     <ImageView
+                        android:id="@+id/imgclick"
                         android:layout_width="120dp"
                         android:layout_height="150dp"
                         android:layout_gravity="center"
